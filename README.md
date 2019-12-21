@@ -1,1 +1,4 @@
-# Calculator-with-React-Native
+# Calculator
+> Calculator development with React Native
+
+![](./src/assets/screen.png)
